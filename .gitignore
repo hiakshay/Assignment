@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/powerplay.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+# Built application files
+*.apk
+*.aar
+*.aab
+/base/schemas
