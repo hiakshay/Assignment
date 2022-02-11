@@ -1,4 +1,4 @@
-package com.akshay.truecallerassignment.network.api
+package com.akshay.truecallerassignment.network
 
 object Constants {
 

@@ -1,8 +1,7 @@
 package com.akshay.truecallerassignment.di
 
-import com.akshay.truecallerassignment.network.api.Constants.BASE_URL
-import com.akshay.truecallerassignment.network.api.Constants.TIMEOUT
-import com.akshay.truecallerassignment.network.api.TrueCallerContentAPI
+import com.akshay.truecallerassignment.network.Constants.BASE_URL
+import com.akshay.truecallerassignment.network.Constants.TIMEOUT
 import com.google.gson.Gson
 import dagger.Module
 import dagger.Provides
